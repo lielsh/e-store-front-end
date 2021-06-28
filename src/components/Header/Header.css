@@ -1,0 +1,25 @@
+.cartButton {
+    position: relative;
+    top: 7px;
+    border: 1px solid #343a40;
+    background: #343a40;
+    color: #999c9f;
+}
+
+.cartButton:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.cartCount {
+    position: relative;
+    right: 10px;
+    border: 1px solid #999c9f;
+    border-radius: 20px;
+    background: #999c9f;
+    color: white;
+    padding: 0px 7px;
+}
+.cartCount:hover {
+    background: rgba(255,255,255,.75);
+}

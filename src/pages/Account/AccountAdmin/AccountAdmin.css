@@ -1,0 +1,7 @@
+svg[data-testid="true"] {
+    color: green;
+}
+
+svg[data-testid="false"] {
+    color: red;
+}

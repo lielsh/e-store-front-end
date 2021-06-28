@@ -1,0 +1,23 @@
+.main_contact button {
+    position: relative;
+    left: 33%;
+    top: 30px;
+    background-color: #65a2ed;
+    color: white;
+    border: 2px solid white;
+    width: 180px;
+    height: 45px;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.main_contact button:hover {
+    background-color: white;
+    color: #65a2ed;
+    border: 2px solid #65a2ed;
+}
+
+.leaflet-container { 
+    height: 600px;
+    margin-top: 15px;
+  }
